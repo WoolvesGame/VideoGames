@@ -52,10 +52,10 @@ body{
 #zagh:hover{
 	transition: 0.15s ease-in-out;
 	text-shadow:
-    0 0 1px gray,
-    0 0 3px gray,
-    0 0 7px gray,
-    0 0 12px #cccccc;
+    0 0 5px gray,
+    0 0 10px gray,
+    0 0 15px gray,
+    0 0 20px #cccccc;
 }
 
 #gtext{
